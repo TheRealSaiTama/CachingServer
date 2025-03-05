@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
   
-  Created with ❤️ by [TheRealSaiTama](https://github.com/TheRealSaiTama)
-  
+  Created with ❤️ by [TheRealSaiTama](https://github.com/TheRealSaiTama) <br>
+  Inspired by [Roadmap.sh](https://roadmap.sh/projects/caching-server)
 </div>
